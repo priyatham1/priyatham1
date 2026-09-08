@@ -2,7 +2,7 @@
 
 ### **Technology Leader · Engineer · Builder**
 
-> ** I build digital experiences, engineering platforms, and teams that turn ambitious ideas into reality.**
+**I build digital experiences, engineering platforms, and teams that turn ambitious ideas into reality.**
 
 <br>
 
