@@ -10,7 +10,7 @@
 
 <br>
 
-🏦 **JPMorgan Chase**  ·  💻 **Software Engineering**  ·  🤖 **AI  ·  Cloud  ·  Digital**
+**JPMorgan Chase** ·  **AI  ·  Cloud  ·  Digital**
 
 ---
 
