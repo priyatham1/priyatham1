@@ -2,7 +2,7 @@
 <h1>
   Hey, I'm Priyatham!
 </h1>
-<h2>**Technology Leader · Engineer · Builder** </h2>
+<h2> Technology Leader · Engineer · Builder </h2>
 </div>
 
 ### **Technology Leader · Engineer · Builder**
