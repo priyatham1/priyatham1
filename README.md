@@ -115,6 +115,6 @@ and more about **solving the right problem beautifully.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey"/>
+<img src="https://komarev.com/ghpvc/?username=priyatham1&style=flat-square&color=grey"/>
 
 </p>
