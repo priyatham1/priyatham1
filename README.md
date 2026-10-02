@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Priyatham
+<div id="greetings" align="center">
+<h1>
+  Hey, I'm Priyatham!
+</h1>
+<h2>**Technology Leader · Engineer · Builder** </h2>
+</div>
 
 ### **Technology Leader · Engineer · Builder**
 
