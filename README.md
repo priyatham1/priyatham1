@@ -174,9 +174,9 @@ I'm particularly interested in how context can be
 throughout the software lifecycle.
 </p>
 
----
 
-## 🛠️ Technology & Interests
+
+## Technology & Interests
 
 <p align="center">
 
@@ -196,9 +196,9 @@ throughout the software lifecycle.
 
 </p>
 
----
 
-## 🧪 Selected Experiments
+
+## Selected Experiments
 
 <table>
 <tr>
@@ -256,9 +256,9 @@ Experiments around AI, music and new interaction models.
 
 </p>
 
----
 
-## 🏔️ Outside Technology
+
+## Outside Technology
 
 <table>
 <tr>
@@ -292,7 +292,7 @@ Rock · Progressive Rock · Metal
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
