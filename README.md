@@ -2,7 +2,7 @@
 <tr>
 <td width="55%" valign="middle">
 
-<h1>Hi, I'm Priyatham 👋</h1>
+<h1>Hi, I'm Priyatham</h1>
 
 <h3>Engineering Leader · AI-Native Software Engineering · Builder</h3>
 
@@ -52,7 +52,7 @@ I build digital platforms and explore how
 </td>
 
 <td align="center" width="16%">
-<h3>🧠</h3>
+
 <b>Shared Context</b><br/>
 <sub>Knowledge for humans and agents</sub>
 </td>
