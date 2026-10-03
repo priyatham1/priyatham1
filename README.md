@@ -1,120 +1,98 @@
-<div id="greetings" align="center">
-<h1>
-  Hey, I'm Priyatham!
-</h1>
-<h2> Technology Leader · Engineer · Builder </h2>
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85"
+     width="100%"
+     style="border-radius:16px;" />
+
+<br/><br/>
+
+# Hi, I'm Priyatham 👋
+
+### Engineering Leader · AI-Native Software Engineering · Builder
+
+<p>
+I build digital platforms and explore how <b>AI can fundamentally change the way software is built.</b>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADLC-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Digital%20Platforms-111827?style=for-the-badge" />
+</p>
+
 </div>
-
-
-**I build digital experiences, engineering platforms, and teams that turn ambitious ideas into reality.**
-
-<br>
-
-**JPMorgan Chase** ·  **AI  ·  Cloud  ·  Digital**
 
 ---
 
-## ⚡ What I Build
-
 <table>
 <tr>
-<td width="50%">
 
-### 🧠 Engineering
-
-Modern software architecture, distributed systems, scalable platforms, and engineering practices that stand the test of time.
-
+<td align="center" width="16%">
+<h3>🤖</h3>
+<b>AI Agents</b><br/>
+<sub>Specialized agents across the software lifecycle</sub>
 </td>
-<td width="50%">
 
-### 🤖 AI & Innovation
-
-Exploring **Generative AI, AI agents, and AI-assisted engineering** — and how they reshape the way we build software.
-
+<td align="center" width="16%">
+<h3>🔌</h3>
+<b>MCP</b><br/>
+<sub>Connecting agents to real systems</sub>
 </td>
-</tr>
-<tr>
-<td>
 
-### 🚀 Digital Products
-
-From an idea on a whiteboard to products used by millions — I enjoy solving complex problems and making them simple.
-
+<td align="center" width="16%">
+<h3>🔄</h3>
+<b>ADLC</b><br/>
+<sub>AI-driven development lifecycle</sub>
 </td>
-<td>
 
-### 🧭 Leadership
-
-Building high-performing engineering organizations where **people, product, and technology** move together.
-
+<td align="center" width="16%">
+<h3>🧠</h3>
+<b>Shared Context</b><br/>
+<sub>Knowledge for humans and agents</sub>
 </td>
+
+<td align="center" width="16%">
+<h3>☁️</h3>
+<b>Platforms</b><br/>
+<sub>Scalable digital capabilities</sub>
+</td>
+
+<td align="center" width="16%">
+<h3>💻</h3>
+<b>Developer Experience</b><br/>
+<sub>Tools that make engineering better</sub>
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technology
+## ⚡ AI-Native Software Engineering
 
-<p align="left">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<table>
+<tr>
 
-**Java · JavaScript · React · Python · Cloud · Distributed Systems · AI**
+<td width="60%">
 
----
+### From idea to impact — with humans and agents
 
-## 🧪 Currently Exploring
+I'm exploring what happens when AI becomes a **participant in software development**, rather than simply a coding assistant.
+
+</td>
+
+<td width="40%" align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Generative AI        AI Agents        AI Engineering      │
-│                                                             │
-│   Software Architecture        Developer Productivity      │
-│                                                             │
-│   The future of building software with intelligent systems  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I'm particularly fascinated by **agentic software engineering** — systems where AI can understand requirements, reason about architecture, write code, test it, collaborate with humans, and continuously improve the development process.
-
----
-
-## 🏔️ Outside Technology
-
-I spend an unreasonable amount of time thinking about **mountains and music**.
-
-### 🗻 Mountains I've climbed
-
-`Everest Base Camp`   `Mt. Villarrica`   `Mt. Rainier`
-
-### 🎵 Soundtrack
-
-**Rock · Progressive Rock · Metal**
-
----
-
-## 💭 Philosophy
-
-> ### *"Make it simple, but not simpler."*
-
-I believe great engineering is less about writing more code
-and more about **solving the right problem beautifully.**
-
----
-
-<p align="center">
-
-### ⚡ Build   ·   Learn   ·   Explore   ·   Repeat
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=priyatham1&style=flat-square&color=grey"/>
-
-</p>
+💡 Requirements
+       ↓
+🏗️ Architecture
+       ↓
+💻 Development
+       ↓
+🧪 Testing
+       ↓
+🚀 Deployment
+       ↓
+⚙️ Operations
