@@ -1,27 +1,32 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85"
-     width="100%"
-     style="border-radius:16px;" />
+<h1>Hi, I'm Priyatham 👋</h1>
 
-<br/><br/>
-
-# Hi, I'm Priyatham 👋
-
-### Engineering Leader · AI-Native Software Engineering · Builder
+<h3>Engineering Leader · AI-Native Software Engineering · Builder</h3>
 
 <p>
-I build digital platforms and explore how <b>AI can fundamentally change the way software is built.</b>
+I build digital platforms and explore how
+<b>AI can fundamentally change the way software is built.</b>
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ADLC-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Platforms-111827?style=for-the-badge" />
 </p>
 
-</div>
+</td>
+
+<td width="45%" valign="middle">
+
+<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=900&q=85"
+     width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,25 +79,245 @@ I build digital platforms and explore how <b>AI can fundamentally change the way
 <table>
 <tr>
 
-<td width="60%">
+<td width="60%" valign="middle">
 
-### From idea to impact — with humans and agents
+<h3>From idea to impact — with humans and agents</h3>
 
-I'm exploring what happens when AI becomes a **participant in software development**, rather than simply a coding assistant.
+<p>
+I'm exploring what happens when AI becomes a
+<b>participant in software development</b>,
+rather than simply a coding assistant.
+</p>
+
+<p>
+The goal is to bring agents, skills, tools and shared context
+together across the development lifecycle.
+</p>
 
 </td>
 
 <td width="40%" align="center">
 
-```text
-💡 Requirements
-       ↓
-🏗️ Architecture
-       ↓
-💻 Development
-       ↓
-🧪 Testing
-       ↓
-🚀 Deployment
-       ↓
-⚙️ Operations
+<b>💡 Requirements</b>
+<br/>↓<br/>
+<b>🏗️ Architecture</b>
+<br/>↓<br/>
+<b>💻 Development</b>
+<br/>↓<br/>
+<b>🧪 Testing</b>
+<br/>↓<br/>
+<b>🚀 Deployment</b>
+<br/>↓<br/>
+<b>⚙️ Operations</b>
+
+</td>
+
+</tr>
+</table>
+
+> **What does software development look like when AI is a participant, not just a tool?**
+
+---
+
+## 🧠 The Context Problem
+
+<p>
+AI can reason. The harder enterprise problem is giving it the
+<b>right context at the right time.</b>
+</p>
+
+<table>
+<tr>
+
+<td align="center">
+
+<b>Requirements</b><br/>
+↓<br/>
+<b>Architecture</b><br/>
+↓<br/>
+<b>Code & Dependencies</b>
+
+</td>
+
+<td align="center">
+<h2>→</h2>
+</td>
+
+<td align="center">
+
+<h3>Shared Engineering Context</h3>
+
+Humans · Agents · Tools
+
+</td>
+
+<td align="center">
+<h2>←</h2>
+</td>
+
+<td align="center">
+
+<b>Tests</b><br/>
+↓<br/>
+<b>Production Knowledge</b><br/>
+↓<br/>
+<b>Organizational Knowledge</b>
+
+</td>
+
+</tr>
+</table>
+
+<p>
+I'm particularly interested in how context can be
+<b>created, governed, evolved and consumed</b>
+throughout the software lifecycle.
+</p>
+
+---
+
+## 🛠️ Technology & Interests
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,python,aws,azure,docker,kubernetes,git,github"
+     alt="Technology stack" />
+
+</p>
+
+<p align="center">
+
+<code>AI</code>
+<code>Agentic Systems</code>
+<code>MCP</code>
+<code>Distributed Systems</code>
+<code>Cloud</code>
+<code>Developer Experience</code>
+
+</p>
+
+---
+
+## 🧪 Selected Experiments
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🎵 MCP Spotify</h3>
+
+<p>
+MCP server connecting AI workflows with Spotify.
+</p>
+
+<p>
+<code>MCP</code> <code>AI</code> <code>Spotify</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🌦️ MCP Weather</h3>
+
+<p>
+MCP server exposing weather capabilities to AI systems.
+</p>
+
+<p>
+<code>MCP</code> <code>APIs</code> <code>AI</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🎧 MCP Music</h3>
+
+<p>
+Experiments around AI, music and new interaction models.
+</p>
+
+<p>
+<code>AI</code> <code>MCP</code> <code>Music</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<a href="https://github.com/priyatham1">
+<b>→ Explore my projects</b>
+</a>
+
+</p>
+
+---
+
+## 🏔️ Outside Technology
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🏔️ Mountains</h3>
+
+<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=900&q=80"
+     width="100%" />
+
+<p>
+Everest Base Camp · Mt. Villarrica · Mt. Rainier
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎸 Soundtrack</h3>
+
+<img src="https://images.unsplash.com/photo-1501612780327-45045538702b?auto=format&fit=crop&w=900&q=80"
+     width="100%" />
+
+<p>
+Rock · Progressive Rock · Metal
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2>💭 Engineering Philosophy</h2>
+
+<blockquote>
+
+<b>Make it simple, but not simpler.</b>
+
+</blockquote>
+
+<p>
+Great engineering isn't about writing more code.
+It's about understanding the problem deeply enough to know
+what should be built, what shouldn't be built,
+and increasingly, what should be built by humans versus intelligent systems.
+</p>
+
+<h3>Build · Explore · Learn · Repeat</h3>
+
+<br/>
+
+<a href="https://github.com/priyatham1">
+<img src="https://img.shields.io/badge/GitHub-priyatham1-181717?style=for-the-badge&logo=github"
+     alt="GitHub" />
+</a>
+
+</div>
