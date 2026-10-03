@@ -28,7 +28,7 @@ I build digital platforms and explore how
 </tr>
 </table>
 
----
+
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ together across the development lifecycle.
 
 > **What does software development look like when AI is a participant, not just a tool?**
 
----
+
 
 ## The Context Problem
 
