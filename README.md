@@ -74,7 +74,7 @@ I build digital platforms and explore how
 
 
 
-## AI-Native Software Engineering
+### AI-Native Software Engineering
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ together across the development lifecycle.
 
 
 
-## The Context Problem
+### The Context Problem
 
 <p>
 AI can reason. The harder enterprise problem is giving it the
@@ -176,7 +176,7 @@ throughout the software lifecycle.
 
 
 
-## Technology & Interests
+### Technology & Interests
 
 <p align="center">
 
@@ -198,7 +198,7 @@ throughout the software lifecycle.
 
 
 
-## Selected Experiments
+### Selected Experiments
 
 <table>
 <tr>
@@ -258,7 +258,7 @@ Experiments around AI, music and new interaction models.
 
 
 
-## Outside Technology
+### Outside Technology
 
 <table>
 <tr>
