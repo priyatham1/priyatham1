@@ -34,19 +34,19 @@ I build digital platforms and explore how
 <tr>
 
 <td align="center" width="16%">
-<h3>🤖</h3>
+
 <b>AI Agents</b><br/>
 <sub>Specialized agents across the software lifecycle</sub>
 </td>
 
 <td align="center" width="16%">
-<h3>🔌</h3>
+
 <b>MCP</b><br/>
 <sub>Connecting agents to real systems</sub>
 </td>
 
 <td align="center" width="16%">
-<h3>🔄</h3>
+
 <b>ADLC</b><br/>
 <sub>AI-driven development lifecycle</sub>
 </td>
@@ -58,13 +58,13 @@ I build digital platforms and explore how
 </td>
 
 <td align="center" width="16%">
-<h3>☁️</h3>
+
 <b>Platforms</b><br/>
 <sub>Scalable digital capabilities</sub>
 </td>
 
 <td align="center" width="16%">
-<h3>💻</h3>
+
 <b>Developer Experience</b><br/>
 <sub>Tools that make engineering better</sub>
 </td>
