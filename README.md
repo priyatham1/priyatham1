@@ -74,7 +74,7 @@ I build digital platforms and explore how
 
 ---
 
-## ⚡ AI-Native Software Engineering
+## AI-Native Software Engineering
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ together across the development lifecycle.
 
 ---
 
-## 🧠 The Context Problem
+## The Context Problem
 
 <p>
 AI can reason. The harder enterprise problem is giving it the
