@@ -72,7 +72,7 @@ I build digital platforms and explore how
 </tr>
 </table>
 
----
+
 
 ## AI-Native Software Engineering
 
