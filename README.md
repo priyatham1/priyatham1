@@ -93,6 +93,7 @@ rather than simply a coding assistant.
 The goal is to bring agents, skills, tools and shared context
 together across the development lifecycle.
 </p>
+**What does software development look like when AI is a participant, not just a tool?**
 
 </td>
 
@@ -115,7 +116,6 @@ together across the development lifecycle.
 </tr>
 </table>
 
-> **What does software development look like when AI is a participant, not just a tool?**
 
 
 
