@@ -204,9 +204,9 @@ throughout the software lifecycle.
 <tr>
 
 <td width="33%" valign="top">
-
-<h3>🎵 MCP Spotify</h3>
-
+<a href="https://github.com/priyatham1/mcp-spotify">
+<h3>MCP Spotify</h3>
+</a>
 <p>
 MCP server connecting AI workflows with Spotify.
 </p>
