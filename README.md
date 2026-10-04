@@ -205,7 +205,7 @@ throughout the software lifecycle.
 
 <td width="33%" valign="top">
 <a href="https://github.com/priyatham1/mcp-spotify">
-### MCP Spotify
+MCP Spotify
 </a>
 <p>
 MCP server connecting AI workflows with Spotify.
@@ -218,9 +218,9 @@ MCP server connecting AI workflows with Spotify.
 </td>
 
 <td width="33%" valign="top">
-
-<h3>🌦️ MCP Weather</h3>
-
+<a href="https://github.com/priyatham1/mcp-weather">
+MCP Weather
+</a>
 <p>
 MCP server exposing weather capabilities to AI systems.
 </p>
@@ -232,9 +232,9 @@ MCP server exposing weather capabilities to AI systems.
 </td>
 
 <td width="33%" valign="top">
-
-<h3>🎧 MCP Music</h3>
-
+<a href="https://github.com/priyatham1/mcp-music">
+MCP Music
+</a>
 <p>
 Experiments around AI, music and new interaction models.
 </p>
