@@ -248,14 +248,57 @@ Experiments around AI, music and new interaction models.
 </tr>
 </table>
 
-<p align="center">
+### Deployed Projects
 
-<a href="https://github.com/priyatham1">
-<b>→ Explore my projects</b>
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<a href="https://3mzen.vercel.app">
+3 Minute Zen
 </a>
-
+<p>
+A simple breathing and mindfulness experience for short, focused sessions.
 </p>
 
+<p>
+<code>React</code> <code>Web</code> <code>Vercel</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="https://www.playbirdwars.com">
+Bird Wars
+</a>
+<p>
+A browser game built around flying, earning, raiding and competing.
+</p>
+
+<p>
+<code>React</code> <code>Phaser</code> <code>Web</code>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="#">
+Coming soon..
+
+</a>
+<p>
+Really soon
+...
+</p>
+
+<p>
+<code>AI</code> <code>?</code> <code>?</code>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 ### Outside Technology
