@@ -358,8 +358,8 @@ and increasingly, what should be built by humans versus intelligent systems.
 
 <br/>
 
-<a href="https://github.com/priyatham1">
-<img src="https://img.shields.io/badge/GitHub-priyatham1-181717?style=for-the-badge&logo=github"
+<a href="https://www.linkedin.com/in/priyathamsundar">
+<img src="https://img.shields.io/badge/LinkedIn-priyathamsundar-blue?style=for-the-badge&logo=linkedin"
      alt="GitHub" />
 </a>
 
