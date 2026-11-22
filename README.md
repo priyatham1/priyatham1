@@ -301,6 +301,30 @@ Really soon
 </table>
 
 
+
+## Certifications
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.credly.com/earner/earned/badge/bce77d4f-3bae-44b8-9bd9-2f12875d576b">
+        <img src="./images/claude-certified-architect.png" width="120" alt="Claude Certified Architect"/>
+      </a>
+    </td>
+    <td>
+      <strong>Claude Certified Architect – Foundations</strong><br/>
+      Anthropic · Credly Verified<br/>
+      <a href="https://www.credly.com/earner/earned/badge/bce77d4f-3bae-44b8-9bd9-2f12875d576b">View Credential</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 ### Outside Technology
 
 <table>
